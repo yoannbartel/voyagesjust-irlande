@@ -1410,10 +1410,17 @@ body {
 .cid-r13Pqk0jMb {
   padding-top: 90px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1618x1080.jpg");
+  background-image: url("../../../assets/images/mbr-1624x1080.jpg");
 }
 .cid-r13Pqk0jMb .mbr-figure {
   margin: 0 auto;
+}
+.cid-r13Pqk0jMb SPAN {
+  color: #000000;
+}
+.cid-r13Pqk0jMb .mbr-text,
+.cid-r13Pqk0jMb .mbr-section-btn {
+  color: #000000;
 }
 .cid-r0I11jwSiq {
   padding-top: 90px;
